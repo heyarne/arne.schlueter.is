@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/heyarne
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://arne.schlueter.is
+  * I am heyarne (https://keybase.io/heyarne) on keybase.
+  * I have a public key with fingerprint 6B6E 6A69 8BD2 D095 57D1  9EE1 8BC4 5AA5 6264 E016
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120057a69a0c2a194f07b81c679326c9c0a838ef536c978d3053faced1cde9489570a",
+            "fingerprint": "6b6e6a698bd2d09557d19ee18bc45aa56264e016",
+            "host": "keybase.io",
+            "key_id": "8bc45aa56264e016",
+            "kid": "010131aeca654092ac87a110b837c9e5bc5564ebc4cd54618eca0d3d51f3ca4dd98c0a",
+            "uid": "d1b0b99f8373585601028637a140b119",
+            "username": "heyarne"
+        },
+        "service": {
+            "hostname": "arne.schlueter.is",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470897509,
+    "expire_in": 157680000,
+    "prev": "cd43a37b0672a55b91d441b4b9c7432e00a54ce2e76f55f5bbbf5acd5f3e92d7",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFtkntQVFUcxxcCClYMTTcCwuGKvML13Me5jx0pmKFACi0chvAx232cCxt4F3bv
+8oyHC8io0wihMRNSPmBwBHIsomxMLKgpzFIQxQHKHCOFZpoJdBws7FxG/+v8c+b8
+zvfzPd/fb05T8BOmIJ/9Q9s6JeWGxefCHcmU0/N8ZSUhOZVywlZJFKClDRUqyK3b
+CxwKYSMASQEAOZEVRCBTIikwKuAknpRZTqApVhZkIPI0j1RI4wPHKzSAtCrKSCFl
+BQkML0AOiEQioTq0POQqcjk0HduyEotYbMpLCqUAAUJOIQWESF6SGSiKkKVYBgGS
+xWC+020QOJwkupHV4cQ1fLAvxfsf/ePcgKRJEckiCxkgUKLMcyJJAomnOVlAUJIh
+xAjGZQUyLMljJVBoBZIqLYuMogi8vJTbs2SnkBKQBEHFNA15yGJ7imdpbMkAiSQF
+Q+hGLk3chbA6H5WLLg0RVYkELpY4ZGTM1WjkkcC4tbrl/EIP0pHL6nBjvsjl1J2y
+s9Dgdb3IbTNwvbzI0Jciyf7IyS45NAXPEhMlyOV2ODXCRmKlrDsMa5LhAC9wEAiJ
+BCorcriQ3WEoIMfyAC/jHVSCLWWF2UGLNCcBlqNECCWBVBiGlBhJkDmGphAAImRk
+RCGOVSFUoSRJKhTxtFQaCZTCEUZzxZqTsHE4p5iHPd2OPE3UPS7cedBe3wg/k0+Q
+KcDf1/hlpqDAkMdfr3I4xHQovvjnrjNDewp8cm6M1U8x11efG3l/RdPOlw+1Nu17
+1/vnxt6SgBy135p+5Dy4OqhRxI7m5K7PZz85nnk0o7b63Gf3PzjecOJ2T6RpRm85
+WXOy++L4hpwRb6yl+o20O3VZth7vwEuFubnzFvPAusnY8AXfzN37rPel8sbn/vpi
+U9z4kQWv39moQHfqsvjJsIj4ftJvU585P2/7uuhVjfY6sSp01PtMTcb4rfeCh+SJ
+A9Hffp9QPr1/+c6D3bVPNt6evVZ1+MVh/e7auG9qv8q9NbMhoj2grmJYXSSyk0s7
+19R0J8zFr4oPyAh51pzck70lqj1s3rzYsHXI78rens3Lc4qrOkFKTJsceq9/4dXO
++i9bLVcI+wRQ/2nR+l4fTfvR763vto0Urz319A/NHuvkh127krYsnyMSWuyW0w3D
+mfMbtagHhZxpJmWhMjkudPCPhqdKg/vLtv76W90rywanV043Ov9tPJXeC8auedd7
+EtffjU7pO9BWfPFeQbYtfHyP9ss7UkxJ3GVbBZUnmy943m6tTPso1fNT5MOO187M
+xsxluT7u6ffmpw/wHX+vnvr094ETzR03K4TtiXFHx47Nft0wsRh7OkIMKb/a9/CY
+f6rtevVUOxP2ZsoL4zVlK/qS/M+bMx60HVazRlPDLzFJk34rLfpCb7262dtgi8zY
+XRF48PLZusybl6DW8R8=
+=rmE3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/heyarne
+
+==================================================================
